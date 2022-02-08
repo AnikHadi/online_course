@@ -1,0 +1,24 @@
+.search-input {
+    background-color: #000000c4;
+    padding-top: 20px;
+    height: 75px;
+}
+.search-input input {
+    width: 75%;
+    line-height: 20px;
+}
+.subject-area {
+    display: flex;
+}
+.subject-show {
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 0.5rem;
+}
+.subject-enroll{
+    max-width: 300px;
+    margin-left: 20px;
+    padding-top: 30px;
+    align-items: center;
+}

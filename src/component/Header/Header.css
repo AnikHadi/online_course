@@ -1,0 +1,15 @@
+.header-description{
+    background-color: #000000e3;
+}
+.header-description a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 0.7rem;
+}
+.header-description a:hover{
+    background-color: #d3d3d363; 
+}
+.header-description:first-child{
+    padding-left: 3rem;
+}
